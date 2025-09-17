@@ -28,14 +28,14 @@ ul li {
 
 ul li a {
   display: block;
-  color: white;
+  color: rgb(0, 179, 39);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #000000;
 }
 
 
