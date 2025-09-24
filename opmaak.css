@@ -4,11 +4,11 @@
 
 
 body {
-  background-color: rgb(130, 142, 251);
+  background-color: rgb(122, 156, 207);
 }
 
 h1 {
-  color: rgb(255, 255, 255);
+  color: rgb(62, 67, 77);
   margin-left: 20px;
 }
 
@@ -19,7 +19,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #808dff;
+  background-color: #000000;
 }
 
 ul li {
@@ -28,18 +28,25 @@ ul li {
 
 ul li a {
   display: block;
-  color: rgb(0, 0, 0);
+  color: rgb(122, 156, 207);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #4b59dc;
+  background-color: #393535;
 }
 
+img {
+  border-radius: 8px;
+}
 
-
+img {
+  display: block;
+  margin: auto;
+  width: 15%;
+}
 
 
 
